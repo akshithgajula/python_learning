@@ -71,8 +71,8 @@ print("After: ", a, b)
 #Task9 Deleting Variables
 name = "Akshith"
 print(name)
-# del name
-# print(name)
+del name
+print(name)
 
 
 #Task10 Keywords
